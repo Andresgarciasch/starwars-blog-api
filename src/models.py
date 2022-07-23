@@ -56,4 +56,4 @@ class Planetas(db.Model):
             "region": self.region,
             "sistema": self.sistema,
             "especie_nativa": self.especie_nativa,
-        }s
+        }
